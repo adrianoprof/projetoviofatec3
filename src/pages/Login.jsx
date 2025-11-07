@@ -96,7 +96,7 @@ function Login() {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Vio - Testando um deploy ao vivo 07/11
+          Vio - Testando um deploy ao vivo 07/11 - segundo teste
         </Typography>
         <Box
           component="form"
